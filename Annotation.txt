@@ -1,0 +1,18 @@
+1 - WebHook first Concept
+são callbacks Http que sao acionados quando um evento é disparado numa applicacao
+
+shopify WebHook
+
+requirements
+
+- A shopify store account with Admin access - already
+- Hookdeck CLI installed (https://hookdeck.com.cli) - already
+- A locally running API server
+
+Steps
+
+- Generate a WebHook URL
+- Create a WebHook on Shopify for the "Cart Update" evento
+- Test and inspect the WebHook
+
+
